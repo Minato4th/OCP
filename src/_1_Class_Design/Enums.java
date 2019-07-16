@@ -23,6 +23,7 @@ enum Some2 {
     void printSome() {
         System.out.println(value);
     }
+
 }
 
 enum Some3 {
