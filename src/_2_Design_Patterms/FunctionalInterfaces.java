@@ -5,6 +5,10 @@ public interface FunctionalInterfaces {
     void doSomething();
 }
 
+abstract interface Hello {
+
+}
+
 class Fun implements FunctionalInterfaces {
 
     @Override
